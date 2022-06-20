@@ -1,0 +1,15 @@
+C:\Users\stenl\Desktop\Christmas Factory\bin\Debug\net6.0\Christmas Factory.exe
+C:\Users\stenl\Desktop\Christmas Factory\bin\Debug\net6.0\Christmas Factory.deps.json
+C:\Users\stenl\Desktop\Christmas Factory\bin\Debug\net6.0\Christmas Factory.runtimeconfig.json
+C:\Users\stenl\Desktop\Christmas Factory\bin\Debug\net6.0\Christmas Factory.dll
+C:\Users\stenl\Desktop\Christmas Factory\bin\Debug\net6.0\ref\Christmas Factory.dll
+C:\Users\stenl\Desktop\Christmas Factory\bin\Debug\net6.0\Christmas Factory.pdb
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.csproj.AssemblyReference.cache
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.AssemblyInfoInputs.cache
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.AssemblyInfo.cs
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.csproj.CoreCompileInputs.cache
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.dll
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\ref\Christmas Factory.dll
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.pdb
+C:\Users\stenl\Desktop\Christmas Factory\obj\Debug\net6.0\Christmas Factory.genruntimeconfig.cache
